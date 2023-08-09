@@ -5,10 +5,8 @@ Created on Tue Aug  8 12:10:50 2023
 @author: jpalomares
 """
 
-import xlwings as xlw
 import numpy as npy
 from matplotlib import pyplot as plt, patches
-import pandas as pd
 import math
 import streamlit as st
 import mpld3
